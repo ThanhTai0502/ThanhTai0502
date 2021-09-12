@@ -1,0 +1,10 @@
+F:\môn lập trình cơ sở dữ liệu\bài tập\Lab2-vd1\Lab2-vd1\bin\Debug\Lab2-vd1.exe.config
+F:\môn lập trình cơ sở dữ liệu\bài tập\Lab2-vd1\Lab2-vd1\bin\Debug\Lab2-vd1.exe
+F:\môn lập trình cơ sở dữ liệu\bài tập\Lab2-vd1\Lab2-vd1\bin\Debug\Lab2-vd1.pdb
+F:\môn lập trình cơ sở dữ liệu\bài tập\Lab2-vd1\Lab2-vd1\obj\Debug\Lab2-vd1.csproj.AssemblyReference.cache
+F:\môn lập trình cơ sở dữ liệu\bài tập\Lab2-vd1\Lab2-vd1\obj\Debug\Lab2_vd1.Form1.resources
+F:\môn lập trình cơ sở dữ liệu\bài tập\Lab2-vd1\Lab2-vd1\obj\Debug\Lab2_vd1.Properties.Resources.resources
+F:\môn lập trình cơ sở dữ liệu\bài tập\Lab2-vd1\Lab2-vd1\obj\Debug\Lab2-vd1.csproj.GenerateResource.cache
+F:\môn lập trình cơ sở dữ liệu\bài tập\Lab2-vd1\Lab2-vd1\obj\Debug\Lab2-vd1.csproj.CoreCompileInputs.cache
+F:\môn lập trình cơ sở dữ liệu\bài tập\Lab2-vd1\Lab2-vd1\obj\Debug\Lab2-vd1.exe
+F:\môn lập trình cơ sở dữ liệu\bài tập\Lab2-vd1\Lab2-vd1\obj\Debug\Lab2-vd1.pdb

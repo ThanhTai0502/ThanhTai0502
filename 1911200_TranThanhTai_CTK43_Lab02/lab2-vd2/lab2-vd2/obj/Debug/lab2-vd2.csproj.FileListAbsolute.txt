@@ -1,0 +1,12 @@
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\bin\Debug\lab2-vd2.exe.config
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\bin\Debug\lab2-vd2.exe
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\bin\Debug\lab2-vd2.pdb
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\obj\Debug\lab2-vd2.csproj.AssemblyReference.cache
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\obj\Debug\lab2_vd2.Form1.resources
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\obj\Debug\lab2_vd2.Properties.Resources.resources
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\obj\Debug\lab2-vd2.csproj.GenerateResource.cache
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\obj\Debug\lab2-vd2.csproj.CoreCompileInputs.cache
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\obj\Debug\lab2-vd2.exe
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\obj\Debug\lab2-vd2.pdb
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\obj\Debug\lab2_vd2.TBGiaoVien.resources
+F:\môn lập trình cơ sở dữ liệu\bài tập\lab2-vd2\lab2-vd2\obj\Debug\lab2_vd2.TimKiemForm.resources
